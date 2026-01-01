@@ -160,4 +160,4 @@ I debug better with music playing in the background, which shouldn’t work but 
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iniya15&show_icons=true&theme=dark)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=iniya15&theme=dark)
