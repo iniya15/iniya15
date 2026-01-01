@@ -1,7 +1,6 @@
 # Heyo, I'm Iniya! 👽
-
-💫 **About Me**  
-I'm a Computer Science engineering student who enjoys building practical projects and understanding how things work end to end. I like turning ideas into clean, functional systems and learning by actually building, not just reading documentation forever.
+ 
+I'm a Computer Science & Business Systems engineering student who enjoys building practical projects and understanding how things work end to end. I like turning ideas into clean, functional systems and learning by actually building, not just reading documentation forever.
 
 I’m especially interested in web development, problem solving, and exploring ML-based applications. I enjoy working both independently and in teams, and I’m always curious about how technology can be used meaningfully in real life.
 
