@@ -162,3 +162,14 @@ I debug better with music playing in the background, which shouldn’t work but 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iniya15&theme=dark)
 
+
+## 📈 Contributions
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iniya15&theme=github-dark)
+
+
+## 🧾 Contribution Activity
+
+![Contribution Activity](https://github-readme-activity.vercel.app/?username=iniya15)
+
+
