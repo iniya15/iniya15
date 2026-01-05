@@ -45,6 +45,7 @@ I’m especially interested in web development and problem solving. I enjoy work
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -65,6 +66,7 @@ I’m especially interested in web development and problem solving. I enjoy work
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
 
 ---
 
