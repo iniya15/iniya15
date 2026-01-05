@@ -2,21 +2,21 @@
 
 I'm a Computer Science & Business Systems engineering student who enjoys building practical projects and understanding how things work end to end. I like turning ideas into clean, functional systems and learning by actually building, not just reading documentation forever.
 
-I’m especially interested in web development, problem solving, and exploring ML-based applications. I enjoy working both independently and in teams, and I’m always curious about how technology can be used meaningfully in real life.
+I’m especially interested in web development and problem solving. I enjoy working both independently and in teams, and I’m always curious about how technology can be used meaningfully in real life.
 
 ---
 
 ## 🚀 What I Do
-- 💻 Build web applications using HTML, CSS, and JavaScript  
-- 🧠 Solve problems using Java and Python  
-- 🤖 Explore machine learning concepts, including reinforcement learning  
+- 💻 Build web applications using HTML, CSS, and JavaScript. I also started building with React.js 
+- 🧠 Solve problems using Java 
+- 🤖 Explore AIML concepts, including reinforcement learning 
 - 🤝 Collaborate in team-based projects and hackathons  
 
 ---
 
 ## 🌱 Learning & Working On
 - Data Structures & Algorithms  
-- DevOps fundamentals  
+- Cloud Computing basics 
 - Machine learning and reinforcement learning  
 - Personal and academic web-based projects  
 - Improving consistency in problem solving  
@@ -26,8 +26,8 @@ I’m especially interested in web development, problem solving, and exploring M
 ## ⚡ Fun Facts & Interests
 - I debug better with music playing in the background, which shouldn’t work but somehow always does  
 - Music & singing  
-- Movies, series, and sitcoms  
-- Cooking (on good days)  
+- Movies, series, sitcoms, and anime  
+- Cooking  
 - Reading  
 
 ---
@@ -63,6 +63,3 @@ I’m especially interested in web development, problem solving, and exploring M
 
 ## 🧾 Contribution Activity
 ![Recent Activity](https://github-readme-activity.vercel.app/?username=iniya15)
-
-🔗 **Full contribution history:**  
-https://github.com/iniya15
