@@ -6,6 +6,32 @@ I’m especially interested in web development, problem solving, and exploring M
 
 ---
 
+## 🚀 What I Do
+- 💻 Build web applications using HTML, CSS, and JavaScript  
+- 🧠 Solve problems using Java and Python  
+- 🤖 Explore machine learning concepts, including reinforcement learning  
+- 🤝 Collaborate in team-based projects and hackathons  
+
+---
+
+## 🌱 Learning & Working On
+- Data Structures & Algorithms  
+- DevOps fundamentals  
+- Machine learning and reinforcement learning  
+- Personal and academic web-based projects  
+- Improving consistency in problem solving  
+
+---
+
+## ⚡ Fun Facts & Interests
+- I debug better with music playing in the background, which shouldn’t work but somehow always does  
+- Music & singing  
+- Movies, series, and sitcoms  
+- Cooking (on good days)  
+- Reading  
+
+---
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iniya-sureshbabu-1a2ba6289/)
@@ -14,69 +40,19 @@ I’m especially interested in web development, problem solving, and exploring M
 
 ---
 
-## 🚀 What I Do
-- 💻 Build web applications using HTML, CSS, and JavaScript  
-- 🧠 Solve problems using Java and Python  
-- 📊 Explore ML concepts and data-driven projects  
-- 🤝 Collaborate in team-based projects and hackathons  
-
----
-
-## 🌱 Currently Learning
-- Data Structures & Algorithms  
-- DevOps fundamentals  
-- Machine learning basics  
-
----
-
-## 🔭 Currently Working On
-- Personal and academic web-based projects  
-- Improving consistency in problem solving  
-- ML-driven mini projects  
-
----
-
-## 👯 Looking to Collaborate On
-- Beginner-friendly open-source projects  
-- Web applications with real-world use cases  
-- Student-led hackathons and tech initiatives  
-
----
-
-## 🤔 Looking for Help With
-- Writing cleaner and more scalable code  
-- Understanding system design fundamentals  
-- Improving deployment and DevOps workflows  
-
----
-
-## 💬 Ask Me About
-- Java basics and problem-solving strategies  
-- HTML, CSS, and JavaScript projects  
-- Getting started with ML as a student  
-
----
-
-## 😄 Pronouns
-She / Her  
-
----
-
-## ⚡ Fun Fact
-I debug better with music playing in the background, which shouldn’t work but somehow always does.
-
----
-
-## 🎵 Interests
-- Music & singing  
-- Movies, series, and sitcoms  
-- Cooking (on good days)  
-- Reading  
-
----
-
 ## 💻 Tech Stack
-*(keeping this exactly as you already built it — no changes)*
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
 
 ---
 
@@ -85,15 +61,8 @@ I debug better with music playing in the background, which shouldn’t work but 
 
 ---
 
-## 📈 Contributions
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iniya15&theme=github-dark)
-
----
-
 ## 🧾 Contribution Activity
 ![Recent Activity](https://github-readme-activity.vercel.app/?username=iniya15)
 
----
-
-🔗 **View my full contribution history on GitHub:**  
+🔗 **Full contribution history:**  
 https://github.com/iniya15
