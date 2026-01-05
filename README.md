@@ -69,9 +69,5 @@ I’m especially interested in web development and problem solving. I enjoy work
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=iniya15&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=iniya15)
 
----
-
-## 🧾 Contribution Activity
-![Recent Activity](https://github-readme-activity.vercel.app/?username=iniya15)
