@@ -42,8 +42,6 @@ I’m especially interested in web development and problem solving. I enjoy work
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
